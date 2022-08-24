@@ -1,5 +1,6 @@
 package downloadManager;
 
+import constrants.Constants;
 import downloadTask.DownloadTask;
 import margeTask.MargeTask;
 
